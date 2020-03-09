@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/bill/index",
+    "pages/bill/login",
+    "pages/bill/typelist",
+    "pages/bill/addtype",
+    "pages/bill/details",
+    "pages/bill/search",
+    "pages/bill/edit",
+    "pages/bill/about",
+    "pages/bill/annal",
+    "pages/bill/chart"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap90.json"
+}
